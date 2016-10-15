@@ -1,0 +1,9 @@
+cat
+sheep
+dog
+cat
+cat
+sheep
+dog
+rat 
+cat
